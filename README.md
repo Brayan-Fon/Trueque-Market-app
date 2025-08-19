@@ -44,19 +44,26 @@ La página web con toda la información del proyecto y los participantes está d
 
 ## Precondiciones
 -Tener identificada la nesesidad de un plataforma de truques.
+
 -Conocer la funciones basicas (registro,login,publicar objetos y gestionar trueques). 
+
 -Selecion de tecnologias.
+
 -Base de datos cargada con datos de prueba.
 
 ---
 
 ## Postcondiciones
+
 -Resultados de pruebas Ej: login correcto o incorrecto 
+
 -Valides de que el sistema esta cumpliendo con los requsitos inciales.
+
 -Plan para la correcion de errores y mejoras.
 
 ---
 
 ## Clasificación del proyecto según Ingeniería de Software
+
 Este proyeco corresponde a la categoria de aplicacion web interactiva y de información distribuido, ya que manja datos de usuarios, objetos y transacciones, permite la interación de usurios mediante la web y Funciona en arquitectura cliente-servidor.
 
