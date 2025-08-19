@@ -43,7 +43,7 @@ La página web con toda la información del proyecto y los participantes está d
 ---
 
 ## Precondiciones
--Tener identificada la nesesidad de un plataforma de truques.
+-Tener identificada la nesecidad de un plataforma de trueques.
 
 -Conocer la funciones basicas (registro, login, publicar objetos y gestionar trueques). 
 
@@ -57,7 +57,7 @@ La página web con toda la información del proyecto y los participantes está d
 
 -Resultados de pruebas Ej: login correcto o incorrecto 
 
--Valides de que el sistema esta cumpliendo con los requsitos inciales.
+-Validez de que el sistema esta cumpliendo con los requsitos inciales.
 
 -Plan para la correcion de errores y mejoras.
 
