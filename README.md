@@ -45,7 +45,7 @@ La página web con toda la información del proyecto y los participantes está d
 ## Precondiciones
 -Tener identificada la nesesidad de un plataforma de truques.
 
--Conocer la funciones basicas (registro,login,publicar objetos y gestionar trueques). 
+-Conocer la funciones basicas (registro, login, publicar objetos y gestionar trueques). 
 
 -Selecion de tecnologias.
 
